@@ -36,6 +36,8 @@ To test your solution:
 
 To test with different inputs, update the `input.txt` file.
 
+Once you think you have the solution, replace the example input with the real puzzle input (available at the bottom of the puzzle description), and run your solution again to get the answer.
+
 ## Example
 
 There is an example of a daily solution in the `example` directory.
